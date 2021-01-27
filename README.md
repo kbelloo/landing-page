@@ -1,2 +1,2 @@
 # landing-page
-capstone project of a landing page done with tailwind CSS
+A landing page done with tailwind CSS (capstone project) 
